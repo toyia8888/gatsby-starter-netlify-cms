@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: "Latoyia "
-image: /img/image1.jpg
+image: /img/image2.jpg
 heading: Welcome to my Portfolio.
 subheading: Hello. I am Latoyia Lewis. A Web Design student based in Louisiana.
 mainpitch:
