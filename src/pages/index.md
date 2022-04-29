@@ -5,16 +5,14 @@ image: /img/image2.jpg
 heading: Welcome to my Portfolio.
 subheading: Hello. I am Latoyia Lewis. A Web Design student based in Louisiana.
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: "A bit about me:"
+  description: "I am a Web Design major, eager to work in multimedia development
+    and/or Ux/UI designing when I graduate. My goal is to develop and deliver
+    the most effective, most outstanding graphic design skills, user interface
+    and user experience for each client or project that's presented to me. "
+description: " I INVITE YOU TO EXPLORE MY SITE TO GET A BETTER UNDERSTANING OF
+  MY SPECIALTIES, TECHNIQUES AND PROFESSIONAL EXPERIENCE. WHAT YOU'LL FIND BELOW
+  IS A COMBINATION OF DIFFERENT SKILLS AND PERSONAL PROJECTS OF MY OWN."
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,11 +43,10 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: Let me create you a compelling website and content featuring
+    engaging experience, no matter what kind of business you are in. Below we
+    have listed some of our most recent projects that we've created for you to
+    review.
 main:
   heading: Great coffee with no compromises
   description: >
