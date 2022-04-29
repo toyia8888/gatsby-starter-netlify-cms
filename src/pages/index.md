@@ -15,7 +15,7 @@ description: " I INVITE YOU TO EXPLORE MY SITE TO GET A BETTER UNDERSTANING OF
   IS A COMBINATION OF DIFFERENT SKILLS AND PERSONAL PROJECTS OF MY OWN."
 intro:
   blurbs:
-    - image: /img/toyy.jpg
+    - image: /img/artgallery.jpeg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
