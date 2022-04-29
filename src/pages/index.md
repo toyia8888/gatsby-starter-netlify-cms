@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Latoyia Lewis's Portfolio
-image: /img/design.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: "Latoyia "
+image: /img/image1.jpg
+heading: Welcome to my Portfolio.
+subheading: Hello. I am Latoyia Lewis. A Web Design student based in Louisiana.
 mainpitch:
   title: Why Kaldi
   description: >
