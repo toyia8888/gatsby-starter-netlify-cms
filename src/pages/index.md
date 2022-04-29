@@ -20,7 +20,7 @@ intro:
         for the Watermann Gallery, an art and history museum. The director
         requested a simple yet functional site, that presents the necessary
         information in an aesthetic manner. In my approach to this assignment, I
-        decided to include a Home page, Current Exhibit page, Calendar of Events
+        decided to include a home page, Current Exhibit page, Calendar of Events
         page and a How to help page to narrow down the basics in a clear,
         well-organized manner and remain simple. I decided to use a few art
         gallery images and a few different shades of blue since the logo has the
